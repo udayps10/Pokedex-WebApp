@@ -27,5 +27,11 @@ Data fetched from PokéAPI
 - Improve UI  
 - Add more Pokémon details  
 
+## 🤝 Contributions
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork this repository and submit a pull request.
+
 ## 🙌 Acknowledgement
 Thanks to PokéAPI for providing Pokémon data
